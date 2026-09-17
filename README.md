@@ -39,3 +39,21 @@ app/
 public/             Ressources publiques
 database/schema.sql Schéma de la base de données
 docs/screenshots/   Captures d'écran
+```
+## Captures d'ecran
+
+### Accueil
+
+![Accueil de SkillRooms](docs/screenshots/accueil.png)
+
+### Connexion
+
+![Page de connexion](docs/screenshots/connexion.png)
+
+### Tableau de bord administrateur
+
+![Tableau de bord administrateur](docs/screenshots/dashboard-admin.png)
+
+### Gestion des salles
+
+![Gestion des salles eSport](docs/screenshots/gestion-salles.png)

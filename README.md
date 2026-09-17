@@ -1,4 +1,4 @@
-# 🎮 SkillRooms — Gestion de salles eSport
+# 🎮 SkillRooms - Gestion de salles eSport
 
 Application web réalisée dans le cadre d'un projet de **Licence 3 Informatique à l'UBO**.  
 SkillRooms permet de gérer une plateforme de salles d'entraînement eSport avec des espaces distincts pour les **administrateurs** et les **membres**.
